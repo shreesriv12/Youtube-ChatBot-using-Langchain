@@ -6,7 +6,6 @@ A Chrome Extension + AI Backend that allows users to ask questions about any You
 
 📹 Demo
 
-https://github.com/user-attachments/assets/8f6621a0-be92-4e76-be57-30b08d07680f
 
 
 🧠 Tech Stack
